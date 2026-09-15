@@ -9,7 +9,6 @@ gardez simplement le même nom de fichier dans `assets/img/`.
 | `hero.jpg` | Felix Andrews (Floybix) | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Beijing_cranes_silhouette.jpg) |
 | `gros-oeuvre.jpg` | Tomascastelazo | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Construction_workers_in_Mexico.jpg) |
 | `maconnerie.jpg` | Tomascastelazo | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Fallen_bricks.jpg) |
-| `reseaux.jpg` | Dietmar Rabich | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Haltern_am_See,_Sythen,_Werkzeughalle_der_Quarzwerke_--_2015_--_4433.jpg) |
 | `ite.jpg` | Maksim Sokolov (maxergon.com) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Windows_of_the_Frost_Building_(Toronto,_Canada).jpg) |
 | `ravalement.jpg` | Agnes Monkelbaan | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Prinses_Margriettunnel_(Aquaduct)_28-07-2024._(actm.)_03.jpg) |
 | `etude.jpg` | Peulle | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Construction_site_Tomineborgveien_(8).jpg) |
